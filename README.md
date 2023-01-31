@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Bruno Abbehusen 👋
 
-- :raising_hand: Futuro desenvolvedor
+- :raising_hand: Desenvolvedor em formação
 
-- :books: Estudando Java
+- :books: Estudando e aprimorando os conhecimentos em Java☕
   
 - :smile: Pronouns: ele/dele
   
