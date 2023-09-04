@@ -4,7 +4,7 @@
 
 - :books: Estudando e aprimorando os conhecimentos em Java☕
   
-- :smile: Pronouns: ele/dele
+- :smile: Pronome: ele/dele
   
 
 <div align="center">
